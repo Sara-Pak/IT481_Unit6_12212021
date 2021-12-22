@@ -1,0 +1,7 @@
+C:\Users\sarab\source\repos\Unit6Assignment_SaraPak\Unit6Assignment_SaraPak\obj\Debug\Unit6Assignment_SaraPak.csprojAssemblyReference.cache
+C:\Users\sarab\source\repos\Unit6Assignment_SaraPak\Unit6Assignment_SaraPak\obj\Debug\Unit6Assignment_SaraPak.csproj.CoreCompileInputs.cache
+C:\Users\sarab\source\repos\Unit6Assignment_SaraPak\Unit6Assignment_SaraPak\bin\Debug\Unit6Assignment_SaraPak.exe.config
+C:\Users\sarab\source\repos\Unit6Assignment_SaraPak\Unit6Assignment_SaraPak\bin\Debug\Unit6Assignment_SaraPak.exe
+C:\Users\sarab\source\repos\Unit6Assignment_SaraPak\Unit6Assignment_SaraPak\bin\Debug\Unit6Assignment_SaraPak.pdb
+C:\Users\sarab\source\repos\Unit6Assignment_SaraPak\Unit6Assignment_SaraPak\obj\Debug\Unit6Assignment_SaraPak.exe
+C:\Users\sarab\source\repos\Unit6Assignment_SaraPak\Unit6Assignment_SaraPak\obj\Debug\Unit6Assignment_SaraPak.pdb
